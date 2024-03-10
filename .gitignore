@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore environment-specific files
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs
+logs/
+
+# Ignore dependencies lock files
+package-lock.json
+yarn.lock
